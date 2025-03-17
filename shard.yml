@@ -1,6 +1,10 @@
 name: invidious
 version: 2.20250314.0-dev
 
+targets:
+  invidious:
+    main: src/invidious.cr
+
 authors:
   - Invidious team <contact@invidious.io>
   - Contributors!
